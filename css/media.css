@@ -33,7 +33,7 @@
 @media (min-width: 641px) and (max-width: 1199px) {
     /* header*/
     .main-header {
-        background-image: url(/images/banner-bg-tablet.jpg);
+        background-image: url(../images/banner-bg-tablet.jpg);
     }
     
     /* intro */
@@ -284,7 +284,7 @@
   
   /* header*/
   .main-header {
-    background-image: url(/images/banner-mobile.jpg);
+    background-image: url(../images/banner-mobile.jpg);
   }
 
   /* intro */
